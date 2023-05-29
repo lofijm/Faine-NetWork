@@ -1,0 +1,102 @@
+@import url(https://fonts.googleapis.com/css?family=Lora);
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@200&family=Ubuntu:wght@300&display=swap');
+
+
+a {
+  text-decoration: none;
+  font-family: 'Lora', serif;
+  transition: .5s linear;
+  font-size: 70px;
+  
+}
+
+.maintext{
+  margin-left: 90px;
+  margin-right: 80px;
+}
+
+
+.body {font-family: 'Lora', serif;}
+
+.update {
+  font-family: 'Source Sans Pro', sans-serif;
+font-family: 'Ubuntu', sans-serif;
+}
+
+
+
+
+.hr {
+  background-color: #000000; /* Колір фону (чорний у цьому випадку) */
+  height: 1px; /* Висота лінії */
+  border: none; /* Видалити рамку */
+}
+
+.update {
+  background-color: #124485; /* Колір фону (чорний у цьому випадку) */
+  color: #fff; /* Колір тексту (білий у цьому випадку) */
+  padding: 10px; /* Внутрішній відступ */
+}
+
+
+
+.color1{
+  color: #152455;
+}
+
+.color1:hover {
+  color: #9202; /* Колір тексту при наведенні курсора */
+}
+
+
+.color2{
+  color: #335617;
+}
+
+.color2:hover {
+  color: #467; /* Колір тексту при наведенні курсора */
+}
+
+
+.color3{
+  color: #781344;
+}
+
+.color3:hover {
+  color: #4049; /* Колір тексту при наведенні курсора */
+}
+
+
+.color4{
+  color: #926955;
+}
+
+.color4:hover {
+  color: #8379; /* Колір тексту при наведенні курсора */
+}
+
+
+
+.color5{
+  color: #117988;
+}
+
+.color5:hover {
+  color: #3109; /* Колір тексту при наведенні курсора */
+}
+
+.color6{
+  color: #600;
+}
+
+.color6:hover {
+  color: #4145; /* Колір тексту при наведенні курсора */
+}
+
+.color7{
+  color: #3e74f2;
+}
+
+.color7:hover {
+  color: #273243; /* Колір тексту при наведенні курсора */
+}
